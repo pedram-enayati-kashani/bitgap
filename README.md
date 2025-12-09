@@ -18,7 +18,7 @@ Follow these steps to run and test the project **in under 2 minutes**.
 ### Run the Application
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/bitgap-task-management.git
+git clone https://github.com/pedram-enayati-kashani/bitgap
 cd bitgap-task-management
 
 # 2. Start containers
